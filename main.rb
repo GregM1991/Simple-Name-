@@ -35,4 +35,4 @@ all_the_humans = [
 "Wendy Doan",
 "Wilkins Cheng"]
 
-puts all_the_humans[rand(all_the_humans.length - 1)]
+puts all_the_humans[rand(all_the_humans.length)]
